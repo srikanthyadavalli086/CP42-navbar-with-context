@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.nav-con-light {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+}
+.nav-con-dark {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: #333333;
+}
+
+.nav-image {
+  height: 40px;
+}
+.nav-links {
+  display: flex;
+  font-weight: 600;
+}
+.a {
+  margin-right: 20px;
+}
+.a-dark {
+  margin-right: 20px;
+  color: #ffffff;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}

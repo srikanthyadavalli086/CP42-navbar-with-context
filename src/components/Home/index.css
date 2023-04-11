@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.con-light {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  font-size: 16px;
+}
+.con-dark {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  font-size: 16px;
+  background-color: black;
+  color: #ffffff;
+}
+.image {
+  width: 140px;
+}

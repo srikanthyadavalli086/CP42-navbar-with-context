@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.not-found-con-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-con-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: #ffffff;
+}
+.not-found-image {
+  width: 400px;
+}
